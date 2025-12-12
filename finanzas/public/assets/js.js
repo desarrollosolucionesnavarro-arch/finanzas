@@ -1,0 +1,1 @@
+// Placeholder para futuras funciones JS
